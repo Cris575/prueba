@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+}
+.inicio{
+    background: #FFE3DC;
+    margin-top: auto;
+    text-align: center;
+}
+.navegacion{
+    
+    overflow: hidden;
+}
+.navegacion ul{
+    list-style: none;
+    margin-top: 0;
+}
+.navegacion li{
+    float: right;
+    
+}
+.navegacion li a{
+    display: inline-block;  
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.navegacion li a:hover{
+    color: black;
+}
+a,.My-name,.Mi-descripcion{
+    color: #531D40;
+}
+h1,h3{
+    text-align: center;
+}
+.My-name{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin-bottom: 0;
+}
+.Mi-descripcion{
+    font-family: 'Montserrat', sans-serif;
+}
+.nube,.nube2{
+    position: absolute;
+}
+.nube{
+    left: 10rem;
+    bottom: 20rem;
+}
+.nube2{
+    right: 10rem;
+    top: 10rem;
+    width: 150px;
+}
+.pato{
+width: 100px;
+position: absolute;
+left: calc(50% - 70.5px);
+}
+.montaña{
+    width: 700px;
+    max-width: 100%;
+}
