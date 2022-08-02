@@ -46,20 +46,61 @@ h1,h3{
     position: absolute;
 }
 .nube{
-    left: 10rem;
-    bottom: 20rem;
-}
-.nube2{
-    right: 10rem;
-    top: 10rem;
+    
+    left: 250px;
+    bottom: 400px;
     width: 150px;
 }
+
+.nube2{
+    right: 200px;
+    width: 200px;
+}
+
 .pato{
 width: 100px;
 position: absolute;
 left: calc(50% - 70.5px);
 }
-.montaña{
+.montaña{    
     width: 700px;
     max-width: 100%;
+    margin: 0;
+    margin-bottom: -4px;
 }
+.Mi-descripcion{
+    padding-bottom: 100px;
+}
+.middle-box{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    width: 50%;
+}
+.middle-box p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.img{
+    width: 50%;
+    max-width: 100%;
+    border-radius: 100%;
+}
+h1{
+    color: #531D40;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-family: 'Merriweather', sans-serif;
+    line-height: 2;
+    color: black;
+}
+hr{
+    width: 50px;
+    border-width: 10px;
+    border-style: dotted none none none;    
+    border-color: #531D40;
+}
+
