@@ -78,7 +78,7 @@ left: calc(50% - 70.5px);
     margin-top: 70px;
     width: 50%;
 }
-.middle-box p{
+.descripcion{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
@@ -102,5 +102,42 @@ hr{
     border-width: 10px;
     border-style: dotted none none none;    
     border-color: #531D40;
+}
+.imagen{
+    margin: 50px 50px 25px 0;
+    float: left;
+    
+}
+h3{
+    color: rgb(150, 29, 108);
+    font-family: 'Montserrat', sans-serif;
+}
+.love{
+    text-align: left;
+    font-family: 'Merriweather', sans-serif;
+}
+.espacio{
+    height: 50px;
+}
+.imagen2{
+    margin: 50px 0px 25px 50px;
+    float: right;
+}
+.part2,.tittle2{
+    text-align: left;
+}
+.Cooking{
+    margin: 50px 50px 0 0;
+    float: left;
+}
+.Cooking2{
+    text-align: left;
+}
+.Writing{
+    float: right;
+    margin: 50px 0 50px 50px;
+}
+.Writing2{
+    text-align: left;
 }
 
